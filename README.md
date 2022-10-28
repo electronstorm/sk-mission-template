@@ -1,5 +1,5 @@
 # Mission Template
-This template is designed to speed up the mission creation process and reduce common errors such as Datalink blocked by TACAN or ICLS not being enabled.
+This template is designed to streamline mission creation process for SK sessions. The main purpose is to reduce common boilerplate tasks and prevent common errors such as datalink blocked by TACAN or ICLS not being enabled.
 
 # Features
 * ATIS
