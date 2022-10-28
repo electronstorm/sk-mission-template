@@ -44,6 +44,8 @@ The carrier is configured by the unit name of the supercarrier unit:
 
 # Credits
 
-* Skynet-IADS by Mike Walder: https://github.com/walder/Skynet-IADS
+* Skynet-IADS 3.0.0 by Mike Walder: https://github.com/walder/Skynet-IADS
+
+* Mission Scripting Tools 4.5.107: https://github.com/mrSkortch/MissionScriptingTools
 
 * DATIS by Markus Ast: https://github.com/rkusa/DATIS
